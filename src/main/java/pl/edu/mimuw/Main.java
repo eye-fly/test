@@ -1,5 +1,6 @@
 package pl.edu.mimuw;
 
+import java.util.Arrays
 public class Main {
 
   public static void main(String[] args) {
